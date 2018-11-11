@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  SpriteKitWatchFace
+
+  Created by Steven Troughton-Smith on 14/10/2018.
+  Copyright © 2018 Steven Troughton-Smith. All rights reserved.
+*/
+
+/*
+  Redesigned by Nazar Tkachenko on 11/11/2018
+*/
+
+"CFBundleName" = "WatchFace"; // Name of the app
